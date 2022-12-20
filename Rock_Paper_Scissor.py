@@ -4,7 +4,7 @@ user_wins = 0
 computer_wins = 0
 draw = 0
 
-options = ["rock","paper","scissor"]
+options = ["rock","paper","scissors"]
 
 while True :
     user_input = input("Type Rock/Paper/Scissors or Q for quit: ").lower()
